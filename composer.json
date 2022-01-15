@@ -1,0 +1,22 @@
+{
+    "name": "patriksuchovsky/adminlte",
+    "description": "AdminLTE extension for Nette",
+    "type": "library",
+    "require": {
+        "php": ">=7.4",
+        "nette/di": "v3.1.x-dev"
+    },
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Patriksuchovsky\\Adminlte\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Patrik Suchovsky",
+            "email": "patrik.suchovsky@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
