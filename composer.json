@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "php": ">=7.4",
-        "nette/di": "v3.1.x-dev"
+        "nette/di": "^3.0.0"
     },
     "license": "MIT",
     "autoload": {
