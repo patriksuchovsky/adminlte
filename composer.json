@@ -6,7 +6,7 @@
         "php": ">=7.4",
         "nette/di": "v3.1.x-dev"
     },
-    "license": "GPL",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Patriksuchovsky\\Adminlte\\": "src/"
